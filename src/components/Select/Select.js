@@ -31,6 +31,7 @@ const SelectWrapper = styled.div`
   max-width: fit-content;
   padding: 12px 16px;
   border-radius: 8px;
+  -webkit-appearance: none;
 
   &:focus-within{
     outline: 2px solid;
